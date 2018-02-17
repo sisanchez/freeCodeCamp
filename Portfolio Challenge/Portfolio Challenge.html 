@@ -1,0 +1,216 @@
+<html lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>Portfolio Sara Sánchez</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom fonts -->
+  <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+
+  <!-- Plugin CSS -->
+  <link href="vendor/magnific-popup/magnific-popup.css" rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <link href="css/creative.min.css" rel="stylesheet">
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+</head>
+
+<body id="page-top">
+
+  <!-- Nav Bar-->
+  <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+    <div class="container">
+      <a class="navbar-brand js-scroll-trigger" href="#page-top">Home</a>
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#about">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#portfolio">Portfolio</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <header class="masthead text-center text-white d-flex">
+    <div class="container my-auto">
+      <div class="row">
+        <div class="col-lg-10 mx-auto">
+          <h1 class="text-uppercase">
+            <strong>Sara Sánchez</strong>
+          </h1>
+          <hr>
+        </div>
+        <div class="col-lg-8 mx-auto">
+          <p class="mb-4">Maker at the crossroads of design and technology.</p>
+          <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Portfolio</a>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <section class="bg-primary" id="about">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 mx-auto text-center">
+          <h2 class="section-heading text-white">About</h2>
+          <hr class="light my-4">
+          <p class="text-faded mb-4">I am a relentless prototyper with high proficiency in Processing, the Adobe Creative Suite, SketchUp, Max/MSP and experience in hardware and front-end web development.
+            <p class="text-faded mb-4">Technical skills:
+              <br>(Hardware) – Arduino, Raspberry Pi.
+              <br>(Software) – HTML5, CSS3, currently learning Javascript w>ith a special focus on React.js.
+
+
+
+
+
+
+
+
+              <p class="text-faded mb-4"> Soft Skills:
+                <br>Highly organized, natural leader, entrepreneurial and focused on action. </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="p-0" id="portfolio">
+    <div class="container-fluid p-0">
+      <div class="row no-gutters popup-gallery">
+        <div class="col-lg-4 col-sm-6">
+          <a class="portfolio-box" href="http://res.cloudinary.com/dk8qjbhmv/image/upload/v1517028825/Webp_Fotor2_tecmgz.jpg">
+              <img class="img-fluid" src="http://res.cloudinary.com/dk8qjbhmv/image/upload/v1517028825/Webp_Fotor2_tecmgz.jpg" alt="">
+              <div class="portfolio-box-caption">
+                <div class="portfolio-box-caption-content">
+                  <div class="project-category text-faded">
+                    Category
+                  </div>
+                  <div class="project-name">
+                    Human-Computer Interaction
+                  </div>
+                </div>
+              </div>
+            </a>
+        </div>
+        <div class="col-lg-4 col-sm-6">
+          <a class="portfolio-box" href="http://res.cloudinary.com/dk8qjbhmv/image/upload/v1517028825/Webp_Fotor_jd1u7t.jpg">
+              <img class="img-fluid" src="http://res.cloudinary.com/dk8qjbhmv/image/upload/v1517028825/Webp_Fotor_jd1u7t.jpg" alt="">
+              <div class="portfolio-box-caption">
+                <div class="portfolio-box-caption-content">
+                  <div class="project-category text-faded">
+                    Category
+                  </div>
+                  <div class="project-name">
+                    Design Thinking
+                  </div>
+                </div>
+              </div>
+            </a>
+        </div>
+        <div class="col-lg-4 col-sm-6">
+          <a class="portfolio-box" href="http://res.cloudinary.com/dk8qjbhmv/image/upload/v1517028826/Webp.net-resizeimage-2_c3v6uk.jpg">
+              <img class="img-fluid" src="http://res.cloudinary.com/dk8qjbhmv/image/upload/v1517028826/Webp.net-resizeimage-2_c3v6uk.jpg" alt="">
+              <div class="portfolio-box-caption">
+                <div class="portfolio-box-caption-content">
+                  <div class="project-category text-faded">
+                    Category
+                  </div>
+                  <div class="project-name">
+                    Entrepreneurship
+                  </div>
+                </div>
+              </div>
+            </a>
+        </div>
+        <div class="col-lg-4 col-sm-6">
+          <a class="portfolio-box" href="http://res.cloudinary.com/dk8qjbhmv/image/upload/v1517028825/FED_yskgft.png">
+              <img class="img-fluid" src="http://res.cloudinary.com/dk8qjbhmv/image/upload/v1517028825/FED_yskgft.png" alt="">
+              <div class="portfolio-box-caption">
+                <div class="portfolio-box-caption-content">
+                  <div class="project-category text-faded">
+                    Category
+                  </div>
+                  <div class="project-name">
+                    Front-end web development
+                  </div>
+                </div>
+              </div>
+            </a>
+        </div>
+        <div class="col-lg-4 col-sm-6">
+          <a class="portfolio-box" href="http://res.cloudinary.com/dk8qjbhmv/image/upload/v1517028825/Master_Minds_2012_Fotor_c6d1ud.jpg">
+              <img class="img-fluid" src="http://res.cloudinary.com/dk8qjbhmv/image/upload/v1517028825/Master_Minds_2012_Fotor_c6d1ud.jpg" alt="">
+              <div class="portfolio-box-caption">
+                <div class="portfolio-box-caption-content">
+                  <div class="project-category text-faded">
+                    Category
+                  </div>
+                  <div class="project-name">
+                    Marketing
+                  </div>
+                </div>
+              </div>
+            </a>
+        </div>
+        <div class="col-lg-4 col-sm-6">
+          <a class="portfolio-box" href="http://res.cloudinary.com/dk8qjbhmv/image/upload/v1517028825/atc_Fotor_agmixc.jpg">
+              <img class="img-fluid" src="http://res.cloudinary.com/dk8qjbhmv/image/upload/v1517028825/atc_Fotor_agmixc.jpg" alt="">
+              <div class="portfolio-box-caption">
+                <div class="portfolio-box-caption-content">
+                  <div class="project-category text-faded">
+                    Category
+                  </div>
+                  <div class="project-name">
+                    Personal Projects
+                  </div>
+                </div>
+              </div>
+            </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="contact">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 mx-auto text-center">
+          <h2 class="section-heading">Let's Keep In Touch!</h2>
+          <br>
+          <a href="https://www.linkedin.com/in/sarasancheza/" target="_blank"><i id="icon" class="fa fa-linkedin-square" style="font-size:90px;left-margin;15px;"></i></a>
+          <a href="https://www.freecodecamp.org/sisanchez" target="_blank"><i  id="icon"class="fa fa-free-code-camp" style="font-size:90px;margin;auto;"></i></a>
+          <a href="https://github.com/sisanchez" target="_blank"><i id="icon" class="fa fa-github-square "style="font-size:90px;margin;auto;"></i></a>
+          <a href="https://twitter.com/sarasanchezgt" target="_blank"><i id="icon" class="fa fa-twitter-square" style="font-size:90px;margin;auto;"  ></i></a>
+          <a href='mailto:sara.sanchezalquijay@gmail.com' target="_blank"><i id="icon" class="fa fa-envelope-square" style="font-size:90px;margin;auto;"></i></a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <div class="text-center" style="margin-top:30px;">
+    <p>Written and coded by Sara Sanchez.</p>
+  </div>
+  </div>
+
+</body>
+
+</html>
